@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of reazzon/pages.** Not for installation: use [Packagist](https://packagist.org/packages/reazzon/pages) or the [upstream repository](https://github.com/FlusherDock1/pages).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/reazzon-pages/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**19** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/reazzon-pages/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-01-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-01-06 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-01-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.1.2) |
+| `0.2.0` | 2019-01-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.0) |
+| `0.2.1` | 2019-01-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.1) |
+| `0.2.2` | 2019-01-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.2) |
+| `0.2.3` | 2019-06-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.3) |
+| `0.2.4` | 2019-07-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.4) |
+| `0.2.5` | 2019-07-10 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.5) |
+| `0.2.6` | 2019-07-11 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/reazzon-pages/tree/archive/v0.2.6) |
+
+[View all 19 versions](https://github.com/flarchive/reazzon-pages/tags)
 
 Catalog entry: [packages/reazzon-pages.json](https://github.com/flarchive/archive-index/blob/main/packages/reazzon-pages.json)
 
